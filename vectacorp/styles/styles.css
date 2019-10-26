@@ -24,7 +24,7 @@ nav {
 nav ul {
 	list-style-type: none;
 }
-nav ul li a.navigation {
+.navigation {
 	display:		block;
 	margin-bottom:	15px;
 	width:			120px;
